@@ -1,11 +1,13 @@
 
 import './App.css'
+import Dashboard from './Components/Dashboard'
+import About from './Components/About'
 
 function App() {
 
   return (
-    <div className='flex justify-center items-center'>
-      <h1 className='text-5xl'>Hello Team</h1>
+    <div>
+      <About/>
     </div>
   )
 }
