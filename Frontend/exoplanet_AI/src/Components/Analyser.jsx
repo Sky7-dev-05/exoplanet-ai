@@ -3,7 +3,6 @@ import Navbar from '../components/Navbar';
 import ClassificationEngine from '../components/ClassificationEngine';
 import ClassificationResult from '../components/ClassificationResult';
 import CSVTemplateCard from '../components/CSVTemplateCard';
-import Footer from '../components/Footer';
 
 const API_BASE_URL = 'https://exoplanet-ai-v0zp.onrender.com'; 
 
