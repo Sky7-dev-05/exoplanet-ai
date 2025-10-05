@@ -2,6 +2,7 @@
 
 ### 🚀 Project developed for the **NASA Space Apps Challenge 2025**
 
+link of project:https://exoplanet-ai-584i.vercel.app/
 ---
 
 ## 🎯 Project Objective
