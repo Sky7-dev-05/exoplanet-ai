@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react'; // ← Add useRef and useEffect
-import Navbar from '../components/Navbar';
-import ClassificationEngine from '../components/ClassificationEngine';
-import ClassificationResult from '../components/ClassificationResult';
-import CSVTemplateCard from '../components/CSVTemplateCard';
+import Navbar from '../Components/Navbar';
+import ClassificationEngine from '../Components/ClassificationEngine';
+import ClassificationResult from '../Components/ClassificationResult';
+import CSVTemplateCard from '../Components/CSVTemplateCard';
 
 const API_BASE_URL = 'https://exoplanet-ai-v0zp.onrender.com'; 
 
